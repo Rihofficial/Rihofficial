@@ -25,7 +25,7 @@ I’m a Full-Stack Developer focused on building backend-driven web applications
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-### 📌 Featured Projects
+# 📌 Featured Projects
 🎟 Event Booking System (Backend-Focused)
 
 A backend-heavy system handling event creation, bookings, seat limits, waitlists, email notifications, and PDF ticket generation.
@@ -34,7 +34,7 @@ Key concepts:
 JWT authentication · Role-based access · Waitlist logic · Email workflows
 🔗 https://github.com/Rihofficial/event-booking-backend
 
-# 📘 Learning Management System (LMS)
+## 📘 Learning Management System (LMS)
 
 Backend service for managing users and courses with secure authentication and clean RESTful API design.
 
@@ -42,7 +42,7 @@ Key concepts:
 JWT auth · Protected routes · Modular backend architecture
 🔗 https://github.com/Rihofficial/lms-backend
 
-# 🛍️ ElanWear (In Progress)
+## 🛍️ ElanWear (In Progress)
 
 A full-stack e-commerce platform currently focused on backend architecture and commerce workflows.
 
