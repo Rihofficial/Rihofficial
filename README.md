@@ -1,8 +1,8 @@
 
 # 👋 Hi, I’m Timothy
-Full-Stack Developer in progress
-React.js • Node.js • Express • MongoDB
-Learning, building, and improving daily
+Full-Stack Developer • React.js & Node.js Enthusiast
+Building modern web apps with React, Express & MongoDB
+Open to Intern & Junior opportunities 🚀
 
 
 ## 🌐 Socials:
