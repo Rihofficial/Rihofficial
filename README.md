@@ -1,6 +1,8 @@
 
 # 👋 Hi, I’m Timothy
-I’m a Full-Stack Developer focused on building backend-driven web applications using Node.js, Express, MongoDB, and React.js.<br><br>I design and implement secure RESTful APIs, handle authentication and authorization workflows, and build systems that manage real-world business logic such as bookings, waitlists, role-based access, and data validation.
+Full-Stack Developer in progress
+React.js • Node.js • Express • MongoDB
+Learning, building, and improving daily
 
 
 ## 🌐 Socials:
